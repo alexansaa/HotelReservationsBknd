@@ -1,0 +1,10 @@
+# Ignorar archivos generados por Flask
+__pycache__/
+instance/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar archivos específicos
+db.sqlite
+.env
